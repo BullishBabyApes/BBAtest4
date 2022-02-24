@@ -9,7 +9,7 @@
   "NFT_NAME": "Bullish Baby Apes",
   "SYMBOL": "Bullish Baby Apes",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 25000000000000000,
+  "WEI_COST": 5000000000000000,
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
